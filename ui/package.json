@@ -52,6 +52,6 @@
   "dependencies": {
     "bower": "1.8.2",
     "gulp": "3.9.1",
-    "gulp-file-include": "1.0.0"
+    "gulp-file-include": "1.2.0"
   }
 }
